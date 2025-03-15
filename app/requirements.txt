@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy<2
+tensorflow
+scikit-learn
+matplotlib
+Cython
+scikit-surprise
